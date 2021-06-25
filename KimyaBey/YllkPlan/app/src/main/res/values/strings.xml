@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name" translatable="false">Kimya Bey</string>
+    <string name="textview" translatable="false">2020 - 2021 Kimya Yıllık Plan</string>
+    <string name="button" translatable="false">I. Dönem</string>
+    <string name="button2" translatable="false">Düzenle</string>
+    <string name="button1" translatable="false">II. Dönem</string>
+    <string name="textview1" translatable="false">I. Dönem</string>
+    <string name="button3" translatable="false">10. Sınıf</string>
+    <string name="button4" translatable="false">11. Sınıf</string>
+    <string name="button5" translatable="false">9. Sınıf</string>
+    <string name="button6" translatable="false">12.Sınıf</string>
+    <string name="textview2" translatable="false">Hüsnü Salih Küçük</string>
+    <string name="textview3" translatable="false">II. Dönem</string>
+    <string name="button7" translatable="false">10. Sınıf</string>
+    <string name="button8" translatable="false">11. Sınıf</string>
+    <string name="button9" translatable="false">9. Sınıf</string>
+    <string name="button10" translatable="false">12. Sınıf</string>
+    <string name="textview4" translatable="false">X. Dönem X. Sınıf</string>
+    <string name="button11" translatable="false">Button11</string>
+    <string name="button12" translatable="false">Button12</string>
+    <string name="button13" translatable="false">Button13</string>
+    <string name="button15" translatable="false">Button15</string>
+    <string name="button14" translatable="false">Button14</string>
+    <string name="textview5">TextView5</string>
+    <string name="button16">I. Hafta</string>
+    <string name="button17">II. Hafta</string>
+    <string name="button18">III. Hafta</string>
+    <string name="button19">IV. Hafta</string>
+    <string name="textview6">textview6</string>
+    <string name="textview7">TextView7</string>
+    <string name="textview8">TextView8</string>
+    <string name="textview9">TextView9</string>
+    <string name="textview10">TextView10</string>
+    <string name="radiobutton">I.Dönem</string>
+    <string name="radiobutton1">II. Dönem</string>
+    <string name="textview11">1. Başlık</string>
+    <string name="textview12">İçerik</string>
+    <string name="textview13">2. Başlık</string>
+    <string name="textview14">İçerik</string>
+    <string name="button20">Kaydet</string>
+    <string name="baslik1"></string>
+    <string name="icerik1"></string>
+    <string name="baslik2" />
+    <string name="icerik2" />
+    <string name="textview15">Not: 5. haftalar o ayın 4. haftasının 2. başlığı altına yazılır.</string>
+    <string-array name="Donemler">
+        <item>I. Dönem</item>
+        <item>II. Dönem</item>
+    </string-array>
+    <string-array name="siniflar">
+        <item>9. Sinif</item>
+        <item>10. Sinif</item>
+        <item>11. Sinif</item>
+        <item>12. Sinif</item>
+    </string-array>
+    <string-array name="donembiray">
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+        <item>Ocak</item>
+    </string-array>
+    <string-array name="donemikiay">
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+    </string-array>
+    <string-array name="Haftalar">
+        <item>1. Hafta</item>
+        <item>2. Hafta</item>
+        <item>3. Hafta</item>
+        <item>4. Hafta</item>
+    </string-array>
+</resources>

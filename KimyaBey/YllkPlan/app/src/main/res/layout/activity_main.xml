@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrount"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:text="@string/textview"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_marginTop="125dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="190dp"
+        android:layout_height="105dp"
+        android:layout_gravity="center"
+        android:background="?attr/colorButtonNormal"
+        android:fontFamily="serif"
+        android:lineSpacingExtra="14sp"
+        android:onClick="donembirgit"
+        android:text="@string/button"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_marginBottom="140dp"
+        android:layout_width="190dp"
+        android:layout_height="105dp"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:fontFamily="serif"
+        android:lineSpacingExtra="14sp"
+        android:onClick="donemikiyegit"
+        android:text="@string/button1"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom|left"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorButton"
+        android:gravity="center"
+        android:onClick="duzenleyegit"
+        android:text="@string/button2"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+</android.support.v7.widget.LinearLayoutCompat>
